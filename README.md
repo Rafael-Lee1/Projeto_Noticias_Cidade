@@ -10,7 +10,6 @@
 
 # Descrição
 
- Descrição:
 O Notícias Cidade é um site de notícias que traz informações atualizadas sobre acontecimentos locais e nacionais, com um foco especial nas principais notícias da cidade. Com uma interface intuitiva e de fácil navegação, o site permite que os usuários tenham acesso a um conteúdo de qualidade e de relevância para a região.
 
 Com uma equipe dedicada de jornalistas e editores, o Notícias Cidade traz matérias de diversos assuntos, como política, economia, cultura, esportes, entre outros. Além disso, o site conta com uma seção especial de entretenimento, com notícias sobre filmes, séries, música e eventos culturais na cidade.
